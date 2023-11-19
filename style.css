@@ -29,12 +29,6 @@ html, body {
 .nav a:hover {
     color: white;
 }
-.hr {
-    background-color: black;
-    display: flex;
-    align-items: flex-start;
-
-}
 .sec-nav {
     position: absolute;
     background-color: rgb(97, 93, 93);
@@ -64,8 +58,8 @@ html, body {
 }
 .colored-line {
     position: relative;
-    margin: 20px 0; /* Adjust the margin as needed */
-    height: 1px; /* Set the thickness of the line */
+    margin: 20px 0;
+    height: 1px; 
     background-color: #3498db;
 }
 
@@ -141,7 +135,7 @@ html, body {
         width: 100%;
     }
 }
-/**hfthdfgcvhjgnvmgfgcnvhgfgnhvm**/
+
 .footer {
   background-color: black;
   color: #fff;
